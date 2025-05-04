@@ -76,8 +76,8 @@ churn-prediction-app/
 ## 👤 Author
 
 **Talel Taieb**
-[\[LinkedIn Profile]](www.linkedin.com/in/talel-taieb-824062330)
-[\[Portfolio or Website]](https://github.com/taleltaieb)
+[LinkedIn Profile](www.linkedin.com/in/talel-taieb-824062330)
+[Portfolio or Website](https://github.com/taleltaieb)
 
 ---
 
