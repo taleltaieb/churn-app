@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc993a21cac42f7197c29504a1b2f2ab2e449abd17b5de8c8ffb9e169fa845b2
-size 436
+["Count", "Gender", "Senior Citizen", "Partner", "Dependents", "Tenure Months", "Phone Service", "Multiple Lines", "Internet Service", "Online Security", "Online Backup", "Device Protection", "Tech Support", "Streaming TV", "Streaming Movies", "Contract", "Paperless Billing", "Payment Method", "Monthly Charges", "Total Charges", "Is_New_Customer", "Has_Contract", "High_Monthly_Cost", "Risky_Services_Count", "Engaged_Customer_Score"]
