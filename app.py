@@ -5,8 +5,8 @@ import joblib
 import json
 
 # Load model and feature columns
-model = joblib.load("churn_stack_model.pkl")
-with open("feature_columns.json") as f:
+model = joblib.load("./model/churn_stack_model.pkl")
+with open("./model/feature_columns.json") as f:
     feature_cols = json.load(f)
 
 # Title
