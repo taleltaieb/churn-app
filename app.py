@@ -3,10 +3,15 @@ import pandas as pd
 import numpy as np
 import joblib
 import json
+import os
 
 # Load model and feature columns
-model = joblib.load("./model/churn_stack_model.pkl")
-with open("./model/feature_columns.json") as f:
+model_path = os.path.join("model", "churn_stack_model.pkl")
+columns_path = os.path.join("model", "feature_columns.json")
+
+model = joblib.load(model_path)
+
+with open(columns_path) as f:
     feature_cols = json.load(f)
 
 # Title
